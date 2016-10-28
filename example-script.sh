@@ -1,5 +1,6 @@
 #!/bin/bash
 # This is how I think the logic could work - this is not real bash code by any stretch of the imagination :)
+# Yes, this is exactly how I imagine it conceptually! But how to put it into practice is unclear to me for now.
 
 # launch lpj-guess and rstudio, pipe initial conditions files into them
 horsemodel.R | rstudio
